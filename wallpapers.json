@@ -1,16 +1,5 @@
 [
-  {
-    "location": "Background Album",
-    "title": "Wallpaper 001",
-    "author": "Rfriisk",
-    "url_img": "https://raw.githubusercontent.com/rfriisk/Background_Album/main/wallpaper-001.jpg"
-  },
-  {
-    "location": "Background Album",
-    "title": "Wallpaper 002",
-    "author": "Rfriisk",
-    "url_img": "https://raw.githubusercontent.com/rfriisk/Background_Album/main/wallpaper-002.jpg"
-  },
+
   {
     "location": "Background Album",
     "title": "Wallpaper 003",
@@ -205,12 +194,6 @@
   },
   {
     "location": "Background Album",
-    "title": "Wallpaper 035",
-    "author": "Rfriisk",
-    "url_img": "https://raw.githubusercontent.com/rfriisk/Background_Album/main/wallpaper-035.jpg"
-  },
-  {
-    "location": "Background Album",
     "title": "Wallpaper 036",
     "author": "Rfriisk",
     "url_img": "https://raw.githubusercontent.com/rfriisk/Background_Album/main/wallpaper-036.jpg"
@@ -301,12 +284,6 @@
   },
   {
     "location": "Background Album",
-    "title": "Wallpaper 051",
-    "author": "Rfriisk",
-    "url_img": "https://raw.githubusercontent.com/rfriisk/Background_Album/main/wallpaper-051.jpg"
-  },
-  {
-    "location": "Background Album",
     "title": "Wallpaper 052",
     "author": "Rfriisk",
     "url_img": "https://raw.githubusercontent.com/rfriisk/Background_Album/main/wallpaper-052.jpg"
@@ -364,18 +341,6 @@
     "title": "Wallpaper 061",
     "author": "Rfriisk",
     "url_img": "https://raw.githubusercontent.com/rfriisk/Background_Album/main/wallpaper-061.jpg"
-  },
-  {
-    "location": "Background Album",
-    "title": "Wallpaper 062",
-    "author": "Rfriisk",
-    "url_img": "https://raw.githubusercontent.com/rfriisk/Background_Album/main/wallpaper-062.jpg"
-  },
-  {
-    "location": "Background Album",
-    "title": "Wallpaper 063",
-    "author": "Rfriisk",
-    "url_img": "https://raw.githubusercontent.com/rfriisk/Background_Album/main/wallpaper-063.jpg"
   },
   {
     "location": "Background Album",
@@ -1711,12 +1676,6 @@
   },
   {
     "location": "Background Album",
-    "title": "Wallpaper 136",
-    "author": "Rfriisk",
-    "url_img": "https://raw.githubusercontent.com/rfriisk/Background_Album/main/wallpaper-136.jpg"
-  },
-  {
-    "location": "Background Album",
     "title": "Wallpaper 137",
     "author": "Rfriisk",
     "url_img": "https://raw.githubusercontent.com/rfriisk/Background_Album/main/wallpaper-137.jpg"
@@ -1837,12 +1796,6 @@
   },
   {
     "location": "Background Album",
-    "title": "Wallpaper 157",
-    "author": "Rfriisk",
-    "url_img": "https://raw.githubusercontent.com/rfriisk/Background_Album/main/wallpaper-157.jpg"
-  },
-  {
-    "location": "Background Album",
     "title": "Wallpaper 158",
     "author": "Rfriisk",
     "url_img": "https://raw.githubusercontent.com/rfriisk/Background_Album/main/wallpaper-158.jpg"
@@ -1930,12 +1883,6 @@
     "title": "Wallpaper 172",
     "author": "Rfriisk",
     "url_img": "https://raw.githubusercontent.com/rfriisk/Background_Album/main/wallpaper-172.jpg"
-  },
-  {
-    "location": "Background Album",
-    "title": "Wallpaper 173",
-    "author": "Rfriisk",
-    "url_img": "https://raw.githubusercontent.com/rfriisk/Background_Album/main/wallpaper-173.jpg"
   },
   {
     "location": "Background Album",
@@ -2056,12 +2003,6 @@
     "title": "Wallpaper 193",
     "author": "Rfriisk",
     "url_img": "https://raw.githubusercontent.com/rfriisk/Background_Album/main/wallpaper-193.jpg"
-  },
-  {
-    "location": "Background Album",
-    "title": "Wallpaper 194",
-    "author": "Rfriisk",
-    "url_img": "https://raw.githubusercontent.com/rfriisk/Background_Album/main/wallpaper-194.jpg"
   },
   {
     "location": "Background Album",
@@ -2566,12 +2507,6 @@
     "title": "Wallpaper 278",
     "author": "Rfriisk",
     "url_img": "https://raw.githubusercontent.com/rfriisk/Background_Album/main/wallpaper-278.jpg"
-  },
-  {
-    "location": "Background Album",
-    "title": "Wallpaper 279",
-    "author": "Rfriisk",
-    "url_img": "https://raw.githubusercontent.com/rfriisk/Background_Album/main/wallpaper-279.jpg"
   },
   {
     "location": "Background Album",
@@ -3229,12 +3164,6 @@
   },
   {
     "location": "Background Album",
-    "title": "Wallpaper 389",
-    "author": "Rfriisk",
-    "url_img": "https://raw.githubusercontent.com/rfriisk/Background_Album/main/wallpaper-389.jpg"
-  },
-  {
-    "location": "Background Album",
     "title": "Wallpaper 390",
     "author": "Rfriisk",
     "url_img": "https://raw.githubusercontent.com/rfriisk/Background_Album/main/wallpaper-390.jpg"
@@ -3298,12 +3227,6 @@
     "title": "Wallpaper 400",
     "author": "Rfriisk",
     "url_img": "https://raw.githubusercontent.com/rfriisk/Background_Album/main/wallpaper-400.jpg"
-  },
-  {
-    "location": "Background Album",
-    "title": "Wallpaper 401",
-    "author": "Rfriisk",
-    "url_img": "https://raw.githubusercontent.com/rfriisk/Background_Album/main/wallpaper-401.jpg"
   },
   {
     "location": "Background Album",
@@ -3898,12 +3821,6 @@
     "title": "Wallpaper 500",
     "author": "Rfriisk",
     "url_img": "https://raw.githubusercontent.com/rfriisk/Background_Album/main/wallpaper-500.jpg"
-  },
-  {
-    "location": "Background Album",
-    "title": "Wallpaper 501",
-    "author": "Rfriisk",
-    "url_img": "https://raw.githubusercontent.com/rfriisk/Background_Album/main/wallpaper-501.jpg"
   },
   {
     "location": "Background Album",
@@ -5743,12 +5660,6 @@
   },
   {
     "location": "Background Album",
-    "title": "Wallpaper 808",
-    "author": "Rfriisk",
-    "url_img": "https://raw.githubusercontent.com/rfriisk/Background_Album/main/wallpaper-808.jpg"
-  },
-  {
-    "location": "Background Album",
     "title": "Wallpaper 809",
     "author": "Rfriisk",
     "url_img": "https://raw.githubusercontent.com/rfriisk/Background_Album/main/wallpaper-809.jpg"
@@ -6343,12 +6254,6 @@
   },
   {
     "location": "Background Album",
-    "title": "Wallpaper 908",
-    "author": "Rfriisk",
-    "url_img": "https://raw.githubusercontent.com/rfriisk/Background_Album/main/wallpaper-908.jpg"
-  },
-  {
-    "location": "Background Album",
     "title": "Wallpaper 909",
     "author": "Rfriisk",
     "url_img": "https://raw.githubusercontent.com/rfriisk/Background_Album/main/wallpaper-909.jpg"
@@ -6694,12 +6599,6 @@
     "title": "Wallpaper 966",
     "author": "Rfriisk",
     "url_img": "https://raw.githubusercontent.com/rfriisk/Background_Album/main/wallpaper-966.jpg"
-  },
-  {
-    "location": "Background Album",
-    "title": "Wallpaper 967",
-    "author": "Rfriisk",
-    "url_img": "https://raw.githubusercontent.com/rfriisk/Background_Album/main/wallpaper-967.jpg"
   },
   {
     "location": "Background Album",
